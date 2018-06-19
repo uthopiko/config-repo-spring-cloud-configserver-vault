@@ -1,1 +1,1 @@
-# config-repo-spring-cloud-configserver-vault
+http://blog.marcosbarbero.com/integrating-vault-spring-cloud-config/
