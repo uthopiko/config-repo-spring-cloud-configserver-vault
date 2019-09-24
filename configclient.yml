@@ -1,3 +1,7 @@
 client:
   pseudo:
     property: Property value loaded from
+    
+legacy:
+  web:
+    uri: "http://localhost:8090"
