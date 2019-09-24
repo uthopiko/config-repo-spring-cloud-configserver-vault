@@ -5,4 +5,4 @@ client:
     
 legacy:
   web:
-    uri: "http://localhost:8090"
+    uri: "http://prod:8090"
