@@ -1,6 +1,3 @@
 legacy:
   web: 
     url: "http://localhost:8090"
-
-localise:
-  token: "g34Hwk-Sy64R2DgzAZ67FUg3PpdqQvAW"
